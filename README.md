@@ -21,11 +21,11 @@ You are required to model the demand for shared bikes with the available indepen
 
 ## 1. data_processing_modeling.pnyb
 This file consists of 
-- a) Data analyses
-- b) Data visualization
-- c) Data preparation
-- d) Model Building
-- e) Model Evaluation
+-  Data analyses
+-  Data visualization
+-  Data preparation
+-  Model Building
+-  Model Evaluation
 
 ## 2. Subjective_Q&A.pdf
 This pdf consists of following subjective and general questions 
@@ -60,13 +60,13 @@ The file currently you are reading
 - 9th Month has got good impact on number of rides
 - 7th Month has got negative impact since most probably would be mansoon in India, so people prefer 4 wheelers rather 2 wheeler
 - holidays as usaul has got negative impact on number of rides
-- After analysing the model, the comapany should focus on the following features:
-- 1.Company should focus on expanding business during September.
-- 2.Based on previous data it is expected to have a boom in number of users once situation comes back to normal, compared to 2019.
-- 3.There would be less bookings during holidays, they can use these days for maintaing the health condition of bikes
-- 4.In winter the business could be expanded
-- 5.During the high wind speed which may cause thunder storms, business is shown steap for obvious reasons
-- 6.During a clear whether the company can raise the cost by 0.5% to get more benfit since it has positive impact
+### After analysing the model, the comapany should focus on the following features:
+- Company should focus on expanding business during September.
+- Based on previous data it is expected to have a boom in number of users once situation comes back to normal, compared to 2019.
+- There would be less bookings during holidays, they can use these days for maintaing the health condition of bikes
+- In winter the business could be expanded
+- During the high wind speed which may cause thunder storms, business is shown steap for obvious reasons
+- During a clear whether the company can raise the cost by 0.5% to get more benfit since it has positive impact
 
 
 ## Contact
