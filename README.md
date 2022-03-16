@@ -25,7 +25,7 @@ This file consists of
 #### b) Data visualization
 #### c) Data preparation
 #### d) Model Building
-#### e) Model Evaluatio
+#### e) Model Evaluation
 
 ## 2. Subjective_Q&A.pdf
 This pdf consists of following subjective and general questions 
